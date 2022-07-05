@@ -33,8 +33,8 @@ public class QuestaoQuatro {
 			return horas;
 		}
 		if (getQtdSegundos() >= 86400) {
-			dias = (getQtdSegundos() / 3600) / 24;
-			return (int) Math.sqrt(dias);
+			dias = (getQtdSegundos()%86400);
+			return dias;
 		}
 
 		return 0;

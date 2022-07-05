@@ -1,5 +1,7 @@
 package desafio.logica.sci;
-
+/**
+ * @author Pablo Mafessoli
+ */
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;

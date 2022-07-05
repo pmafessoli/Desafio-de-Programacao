@@ -1,5 +1,7 @@
 package desafio.logica.sci;
-
+/**
+ * @author Pablo Mafessoli
+ */
 import java.util.ArrayList;
 
 public class QuestaoSeis {

@@ -1,5 +1,9 @@
 package desafio.logica.sci;
-
+/**
+ * 
+ * @author Pablo Mafessoli
+ *
+ */
 public class QuestaoSete {
 
 	private int mulherUm;

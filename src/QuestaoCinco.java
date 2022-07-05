@@ -1,5 +1,9 @@
 package desafio.logica.sci;
-
+/**
+ * 
+ * @author Pablo Mafessoli
+ *
+ */
 public class QuestaoCinco {
 
 //	5) Uma empresa concederá um aumento de salário aos seus
